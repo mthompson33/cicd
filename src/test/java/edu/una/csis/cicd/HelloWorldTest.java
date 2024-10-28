@@ -20,6 +20,6 @@ public class HelloWorldTest {
     
     @Test
     public void testMath() throws Exception {
-    	assertEquals(4, 2 + 1, "bad math");
+    	assertEquals(4, 2 + 2, "bad math");
     }
 }
